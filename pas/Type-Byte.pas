@@ -7,5 +7,5 @@ begin
   else
     c := b;
   Writeln(c);
-  ifThen
+  // why is the answer 254 ?
 end.
